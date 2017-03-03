@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private ListView listViewMainActivity;
     private RemoveToDoFromDataBase removeToDoFromDataBase;
     FloatingActionButton floatingActionButton;
+
     static {
         AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_AUTO);
     }
@@ -154,3 +155,4 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+//Comment in MainActivity for Test
